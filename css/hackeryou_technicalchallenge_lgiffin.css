@@ -1,5 +1,7 @@
 h1 {
   color: red;
+  display: inline;
+  float: left;
 }
 
 ul {
