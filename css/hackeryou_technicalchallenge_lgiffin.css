@@ -10,13 +10,13 @@ nav {
     list-style: none;
     float:right;
     display:inline;
+    background-color: black;
 }
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: black;
 }
 
 li {
