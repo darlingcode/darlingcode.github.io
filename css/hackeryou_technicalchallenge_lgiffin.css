@@ -10,4 +10,5 @@ ul {
 
 li {
   display: inline;
+  float: right;
 }
