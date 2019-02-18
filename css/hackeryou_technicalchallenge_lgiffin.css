@@ -27,6 +27,10 @@ li {
   display: inline;
 }
 
+img {
+    width: 100%
+}
+
 .centered {
   position: absolute;
   top: 50%;
