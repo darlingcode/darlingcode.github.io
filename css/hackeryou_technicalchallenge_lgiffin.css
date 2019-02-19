@@ -1,5 +1,6 @@
 .header {
-background-color: black;
+    float: left;
+    background-color: black;
 }
 
 
@@ -10,8 +11,6 @@ header h1 {
     display:inline;
 }
 nav {
-    padding-left: 0;
-    margin-bottom: 0;
     list-style: none;
     float:right;
     display:inline;
