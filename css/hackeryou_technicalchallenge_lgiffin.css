@@ -27,14 +27,17 @@ li {
   display: inline;
 }
 
-img {
-    width: 100%
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
 .centered {
   position: absolute;
   top: 50%;
   left: 50%;
+  transform: translate(-50%, -50%);
   background: rgb(255, 255, 255);
   background-color: rgba(255, 255, 255, 0.5);
   color: black;
