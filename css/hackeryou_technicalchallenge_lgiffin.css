@@ -62,6 +62,7 @@ li {
 .column {
   float: left;
   width: 25%;
+  position: absolute;
 }
 
 /* Clear floats after rows */ 
