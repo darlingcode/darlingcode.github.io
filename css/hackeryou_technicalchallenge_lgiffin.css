@@ -31,6 +31,10 @@ img {
     width: 100%
 }
 
+.container {
+    margin: auto;
+}
+
 .centered {
   position: absolute;
   top: 50%;
