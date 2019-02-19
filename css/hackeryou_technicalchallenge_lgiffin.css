@@ -1,11 +1,15 @@
 .header {
-    background-color: black;
-    padding: 80px;
-    text-align: left;
-    text-color: white;
+background-color: black;
 }
 
-.navbar {
+
+header h1 {
+    line-height: 45px;
+    font-size: 2rem;
+    margin: 0;
+    display:inline;
+}
+nav {
     padding-left: 0;
     margin-bottom: 0;
     list-style: none;
